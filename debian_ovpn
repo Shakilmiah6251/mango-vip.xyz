@@ -1,9 +1,9 @@
 #!/bin/bash
 #Script Variables
 HOST='66.45.227.43';
-USER='shakilma_mango-vip';
-PASS='mango-vip123456789';
-DBNAME='shakilma_mango-vip';
+USER='shakilma_mango-vippanel';
+PASS='mango-vippanel123456789';
+DBNAME='shakilma_mango-vippanel';
 PORT_TCP='1194';
 PORT_UDP='53';
 404: Not Found
